@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header.Exam{
+    background-color: #3333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+ 
+}
+main.Main{
+    padding: 20px;
+}
+footer.Footer {
+    background-color: #3333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+nav{
+    background-color: #f4f4f4;
+    padding: 10px;
+}
